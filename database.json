@@ -1,0 +1,19 @@
+{
+  "wishes": [
+    {
+      "id": 1,
+      "wish": "Rock climbing",
+      "description": "Chiildhood dream"
+    },
+    {
+      "id": 2,
+      "wish": "Build igloo",
+      "description": "Love winters"
+    },
+    {
+      "wish": "Visit newyork",
+      "description": "Love the city",
+      "id": 3
+    }
+  ]
+}
